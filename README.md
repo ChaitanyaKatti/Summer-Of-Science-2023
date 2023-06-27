@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/ChaitanyaKatti/Summer-Of-Science-2023/assets/96473570/658fdd9b-8144-48e2-8157-2e27f0475408" width="700"/>
+  <img src="https://github.com/ChaitanyaKatti/Summer-Of-Science-2023/assets/96473570/6e380487-447b-432e-b5cb-d82be93bdefb" width="800"/>
 </div>
 
 <div id="header" align="center">
