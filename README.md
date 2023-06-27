@@ -1,3 +1,18 @@
+<div id="header" align="center">
+  <img src="https://github.com/ChaitanyaKatti/Summer-Of-Science-2023/assets/96473570/658fdd9b-8144-48e2-8157-2e27f0475408" width="700"/>
+</div>
+
+<div id="header" align="center">
+    <h2>Chaitanya Katti</h2>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/chaitanya-katti-773286228/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+
 # Summer Of Science-2023 - Fundamentals of Machince Learning
 
 This repository contains Python code for implementing various deep learning algorithms as part of my report on the fundamentals of deep learning. The code covers topics such as linear regression, logistic regression, feed-forward neural networks, and convolutional neural networks (CNNs). The implementations include examples using the MNIST dataset for digit classification and a CNN for the Cats vs Dogs image classification problem.
