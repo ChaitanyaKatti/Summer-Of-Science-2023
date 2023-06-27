@@ -13,6 +13,15 @@ The repository includes the following files and directories:
 - `cnn_cats_vs_dogs.ipynb`: Python notebook implementing a CNN for Cats vs Dogs classification.
 - `data/`: Directory containing sample datasets used in the code examples.
 
+
+## Usage
+
+1. Clone this repository to your local machine using the following command:
+   ```
+   git clone https://github.com/ChaitanyaKatti/Summer-Of-Science-2023.git
+   ```
+2. Open your favorite code editor and run the notebook files.
+
 ## Requirements
 
 To run the code in this repository, you need the following dependencies:
@@ -27,10 +36,3 @@ Create a virtual environment and install the modules listed in requirments.txt
 ```bash
 pip install -r requirments.txt
 ```
-## Usage
-
-1. Clone this repository to your local machine using the following command:
-   ```
-   git clone https://github.com/ChaitanyaKatti/Summer-Of-Science-2023.git
-   ```
-2. Open your favorite code editor and run the notebook files.
