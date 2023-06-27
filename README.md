@@ -22,11 +22,12 @@ The repository includes the following files and directories:
    ```
    git clone https://github.com/ChaitanyaKatti/Summer-Of-Science-2023.git
    ```
-2. Make a directory `/data`. It should containing sample datasets used in cats_vs_dogs. Download the data from link below(808 MB's)
+2. Download and extract the following .rar file into `/data` folder from link below(~770 MB's). It contains the image datasets used in cats_vs_dogs.
+   Change the `data_path` in the `cats_vs_dogs/trainer.ipynb` notebook file to this extracted folder.
    ```
-   https://drive.google.com/drive/folders/1AEESyVEvcEjTh2-n0YYhEDq3eZs5R3B-?usp=sharing
+   https://drive.google.com/file/d/1FmQrel0H9tSWnBFEHbm1nUCEBf2z0SpG/view?usp=sharing
    ```
-3. Open your favorite code editor and run the notebook files.
+4. Open your favorite code editor and run the notebook files.
 
 ## Requirements
 
